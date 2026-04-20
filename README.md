@@ -30,4 +30,17 @@ Como **Bacharel em Direito** e **Pós-graduado em Engenharia de Software e Gest�
 * Planos de contingência para continuidade de serviços críticos.
 
 ---
+---
+
+## 📂 Estrutura do Framework (Mapa do Projeto)
+
+```text
+.
+├── 📄 README.md                # Visão Geral e Perfil
+├── 📁 POLICIES/                # Diretrizes de Segurança e LGPD
+├── 📁 RISK-MANAGEMENT/         # Matriz de Riscos e Impacto
+├── 📁 CHECKLISTS/              # Verificações de Compliance (DoD)
+└── 📁 AGILE-GOVERNANCE/        # Modelos de Relatórios e KPIs
+---
+
 **Desenvolvido por RRSilva** | *Bacharel em Direito | Pós em Eng. de Software | Especialista em Gestão de Projetos* 🛡️⚖️📊# Software-Governance-Framework.
