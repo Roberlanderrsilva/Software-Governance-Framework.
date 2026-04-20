@@ -1,7 +1,5 @@
-<p align="right">
-  <img src="https://img.shields.io/badge/Role-Project_Manager-blue?style=for-the-badge" alt="PM Badge">
-  <img src="https://img.shields.io/badge/Focus-Software_Governance-red?style=for-the-badge" alt="Governance Badge">
-  <img src="https://img.shields.io/badge/Expertise-Legal_Tech-gold?style=for-the-badge" alt="Legal Badge">
+<p align="center">
+  <img src="header-banner.png" alt="Banner de Governança" width="100%">
 </p>
 
 # 🏛️ Software Governance & Management Framework
