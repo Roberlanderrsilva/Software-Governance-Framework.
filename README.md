@@ -6,6 +6,7 @@
 
 # 🏛️ Software Governance & Management Framework
 
+
 > **Gestão de Projetos com Rigor Jurídico:** Este repositório centraliza metodologias de gestão de projetos de software integradas a pilares de **Compliance, LGPD e Governança de TI**.
 
 ---
