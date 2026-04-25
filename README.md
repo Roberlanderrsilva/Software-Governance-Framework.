@@ -1,12 +1,13 @@
+# 🏛️ Software Governance & Management Framework
 <p align="center">
   <img src="header-banner.png" alt="Banner de Governança" width="100%">
 </p>
 
-# 🏛️ Software Governance & Management Framework
-
-
 > **Gestão de Projetos com Rigor Jurídico:** Este repositório centraliza metodologias de gestão de projetos de software integradas a pilares de **Compliance, LGPD e Governança de TI**.
+### 📺 Demonstração do Projeto em Vídeo
+Confira abaixo o vídeo demonstrativo da execução do script e o servidor rodando:
 
+https://github.com/Roberlanderrsilva/linux-servidor/blob/main/Software-Governance-Framework.mp4?raw=true
 ---
 
 ## 👨‍💻 Perfil Híbrido: O Elo entre o Código e a Lei
