@@ -2,11 +2,8 @@
 <p align="center">
   <img src="header-banner.png" alt="Banner de Governança" width="100%">
 </p>
-
-### 📺 Demonstração do Projeto
-Confira o vídeo demonstrativo:
-
-https://github.com/Roberlanderrsilva/Software-Governance-Framework./raw/main/Software-Governance-Framework.mp4
+### 📺 Vídeo de Demonstração
+[Clique aqui para assistir à demonstração do projeto](https://github.com/Roberlanderrsilva/Software-Governance-Framework./blob/main/Software-Governance-Framework.mp4)
 ---
 
 ## 👨‍💻 Perfil Híbrido: O Elo entre o Código e a Lei
