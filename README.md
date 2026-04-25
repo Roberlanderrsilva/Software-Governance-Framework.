@@ -3,9 +3,10 @@
   <img src="header-banner.png" alt="Banner de Governança" width="100%">
 </p>
 
-> **Gestão de Projetos com Rigor Jurídico:** Este repositório centraliza metodologias de gestão de projetos de software integradas a pilares de **Compliance, LGPD e Governança de TI**.
-### 📺 Demonstração do Projeto em Vídeo
-Confira abaixo o vídeo demonstrativo da execução do script e o servidor rodando:
+### 📺 Demonstração do Projeto
+Confira o vídeo demonstrativo:
+
+https://github.com/Roberlanderrsilva/Software-Governance-Framework/raw/main/Software-Governance-Framework.mp4
 
 https://github.com/Roberlanderrsilva/linux-servidor/blob/main/Software-Governance-Framework.mp4?raw=true
 ---
