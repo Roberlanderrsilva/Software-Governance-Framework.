@@ -6,9 +6,7 @@
 ### 📺 Demonstração do Projeto
 Confira o vídeo demonstrativo:
 
-https://github.com/Roberlanderrsilva/Software-Governance-Framework/raw/main/Software-Governance-Framework.mp4
-
-https://github.com/Roberlanderrsilva/linux-servidor/blob/main/Software-Governance-Framework.mp4?raw=true
+https://github.com/Roberlanderrsilva/Software-Governance-Framework./raw/main/Software-Governance-Framework.mp4
 ---
 
 ## 👨‍💻 Perfil Híbrido: O Elo entre o Código e a Lei
